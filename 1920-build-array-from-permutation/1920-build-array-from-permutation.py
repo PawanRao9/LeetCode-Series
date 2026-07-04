@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
+        r = []
         for i in range(0,n):
-            nums.append(nums[nums[i]])
-        return nums[n:]
+            r.append(nums[nums[i]])
+        return r
