@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/PawanRao9/LeetCode-Series/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/1929-concatenation-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
