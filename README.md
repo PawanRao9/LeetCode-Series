@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanRao9/LeetCode-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanRao9/LeetCode-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
