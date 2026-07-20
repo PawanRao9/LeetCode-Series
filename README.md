@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/PawanRao9/LeetCode-Series/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PawanRao9/LeetCode-Series/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0073-set-matrix-zeroes) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PawanRao9/LeetCode-Series/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
