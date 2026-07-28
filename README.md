@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PawanRao9/LeetCode-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PawanRao9/LeetCode-Series/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PawanRao9/LeetCode-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PawanRao9/LeetCode-Series/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/PawanRao9/LeetCode-Series/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PawanRao9/LeetCode-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PawanRao9/LeetCode-Series/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PawanRao9/LeetCode-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PawanRao9/LeetCode-Series/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
