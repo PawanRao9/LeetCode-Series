@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PawanRao9/LeetCode-Series/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PawanRao9/LeetCode-Series/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/PawanRao9/LeetCode-Series/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PawanRao9/LeetCode-Series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PawanRao9/LeetCode-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PawanRao9/LeetCode-Series/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
