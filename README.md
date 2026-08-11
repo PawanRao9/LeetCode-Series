@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PawanRao9/LeetCode-Series/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PawanRao9/LeetCode-Series/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PawanRao9/LeetCode-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PawanRao9/LeetCode-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
