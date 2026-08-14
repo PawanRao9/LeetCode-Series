@@ -14,12 +14,18 @@ class Solution(object):
         #     right -= 1
         # return True
 
-        result = 0
-        num =  x
-        while num > 0:
-            last_digit = num % 10
-            result = (result * 10) + last_digit
-            num = num // 10
-        if result == x:
-            return True
-        return False
+        # result = 0
+        # num =  x
+        # while num > 0:
+        #     last_digit = num % 10
+        #     result = (result * 10) + last_digit
+        #     num = num // 10
+        # if result == x:
+        #     return True
+        # return False
+        re = False
+        y = str(x)
+        
+        if y == y[::-1]:
+            re = True
+        return re
