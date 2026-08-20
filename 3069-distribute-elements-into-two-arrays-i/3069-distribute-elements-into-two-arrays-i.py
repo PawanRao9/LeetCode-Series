@@ -1,9 +1,5 @@
 class Solution(object):
     def resultArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
         arr1 = [nums[0]]
         arr2 = [nums[1]]
 
