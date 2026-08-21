@@ -1,9 +1,5 @@
 class Solution(object):
     def findMin(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
         n = len(nums)
         low, high = 0, n-1
         mini = float('inf')
