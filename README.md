@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/PawanRao9/LeetCode-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PawanRao9/LeetCode-Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PawanRao9/LeetCode-Series/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PawanRao9/LeetCode-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PawanRao9/LeetCode-Series/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PawanRao9/LeetCode-Series/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PawanRao9/LeetCode-Series/tree/master/0189-rotate-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PawanRao9/LeetCode-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
