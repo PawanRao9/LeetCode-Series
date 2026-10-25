@@ -1,0 +1,13 @@
+class Solution(object):
+    def minBitFlips(self, start, goal):
+        """
+        :type start: int
+        :type goal: int
+        :rtype: int
+        """
+        count = 0
+        ans = start ^ goal
+        for i in range(0,31):
+            if ans & (1 << i) != 0:
+                count += 1
+        return count
